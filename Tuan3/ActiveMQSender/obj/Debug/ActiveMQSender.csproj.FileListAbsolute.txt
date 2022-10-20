@@ -1,0 +1,10 @@
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\ActiveMQSender.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\ActiveMQSender.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\Apache.NMS.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\Apache.NMS.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.xml
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\obj\Debug\ActiveMQSender.csprojResolveAssemblyReference.cache
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\obj\Debug\ActiveMQSender.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Tuan3\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
